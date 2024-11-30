@@ -20,15 +20,7 @@
 
 ## Results:
 
-1. [DanishGridInsight App Hosted at Hugging Face](https://huggingface.co/spaces/ancilcleetus/MLOps_Project_01_DanishGridInsight)
 
-2. EmotionScope App Demo: Upload Your Photo, Unveil Your Emotion!
-
-https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/28d92daf-923c-445e-a7a1-3bd0b6b28a53
-
-3. Real-time Emotion Prediction on Webcam Video
-
-![Emotion Classifier using Keras](data/animations/Ancil_Cleetus_Classified_Emotions_240p.gif)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
